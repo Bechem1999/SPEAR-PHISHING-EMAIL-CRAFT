@@ -440,3 +440,13 @@ The **Day 6 Spear Phishing Email Craft** project provided practical experience i
 The Python implementation demonstrated how structured data can be used to generate awareness-training scenarios, while the study of SPF, DKIM and DMARC highlighted important defensive mechanisms for reducing email impersonation risks.
 
 This project strengthened my practical knowledge of **social engineering, phishing awareness, Python automation and email security** as part of my cybersecurity training at **SQROCK IT Solution**.
+
+👤 Author
+Atemlefac Nkafu Bechem
+
+Cybersecurity Engineer
+
+LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
+
+📌 Project Information
+Program Name: Cybersecurity internship at SQROCK | Week: 02 | Project 6: Spear Phishing Email Craft — Lab Only | Repository: GitHubing
