@@ -441,7 +441,8 @@ The Python implementation demonstrated how structured data can be used to genera
 
 This project strengthened my practical knowledge of **social engineering, phishing awareness, Python automation and email security** as part of my cybersecurity training at **SQROCK IT Solution**.
 
-👤 Author
+# 👤 Author
+
 Atemlefac Nkafu Bechem
 
 Cybersecurity Engineer
